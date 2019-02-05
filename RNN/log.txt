@@ -1,0 +1,912 @@
+Welcome to the battle game!
+Hello bot,it is time to roll for stats.
+Rolling the dices...
+The values are:
+your attack stat is 18 and your defense stat is 17
+Your healing stat is 10 and your Special attack stat is 9
+The computer's attack stat is 11 and its defense stat is 18
+The computer's healing stat is 10 and Special attack stat is 15
+Round 1
+player health 100
+computer health 100
+bot rolled 19 for a heal of 29
+computer rolled 1 for an attack of 12
+Results....
+bot used Heal and dealt 0  damage and took 0 damage
+Computer used Attack and dealt 0  damage and took 0 damage
+Next Round.....
+Round 2
+player health 100
+computer health 100
+bot rolled 3 for a Special attack of 30
+computer rolled 1 for an attack of 12
+Results....
+bot used Special_Attack and dealt 12  damage and took 0 damage
+Computer used Attack and dealt 0  damage and took 12 damage
+Next Round.....
+Round 3
+player health 100
+computer health 88
+bot rolled 5 for a failed specail attack of 0
+computer rolled 5 for an attack of 16
+Results....
+bot used Failed_Special_Attack and dealt 0  damage and took 0 damage
+Computer used Attack and dealt 0  damage and took 0 damage
+Next Round.....
+Round 4
+player health 100
+computer health 88
+bot rolled 13 for a defense of 30
+computer rolled 13 for a heal of 23
+Results....
+bot used Defend and dealt 0  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 0 damage
+Next Round.....
+Round 5
+player health 100
+computer health 100
+bot rolled 19 for a failed specail attack of 0
+computer rolled 8 for a heal of 18
+Results....
+bot used Failed_Special_Attack and dealt 0  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 0 damage
+Next Round.....
+Round 6
+player health 100
+computer health 100
+bot rolled 12 for a defense of 29
+computer rolled 20 for a heal of 30
+Results....
+bot used Defend and dealt 0  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 0 damage
+Next Round.....
+Round 7
+player health 100
+computer health 100
+bot rolled 3 for a Special attack of 30
+Computer rolled 12 for a Special attack of 38
+Results....
+bot used Special_Attack and dealt 12  damage and took 21 damage
+Computer used Special_Attack and dealt 21  damage and took 12 damage
+Next Round.....
+Round 8
+player health 79
+computer health 88
+bot rolled 16 for an attack of 34
+computer rolled 2 for a heal of 12
+Results....
+bot used Attack and dealt 17  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 17 damage
+Next Round.....
+Round 9
+player health 79
+computer health 83
+bot rolled 9 for a heal of 19
+computer rolled 9 for a heal of 19
+Results....
+bot used Heal and dealt 0  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 0 damage
+Next Round.....
+Round 10
+player health 98
+computer health 100
+bot rolled 14 for a defense of 31
+computer rolled 13 for an attack of 24
+Results....
+bot used Defend and dealt 0  damage and took 0 damage
+Computer used Attack and dealt 0  damage and took 0 damage
+Next Round.....
+Round 11
+player health 98
+computer health 100
+bot rolled 9 for a heal of 19
+Computer rolled 8 for a Special attack of 34
+Results....
+bot used Heal and dealt 0  damage and took 17 damage
+Computer used Special_Attack and dealt 17  damage and took 0 damage
+Next Round.....
+Round 12
+player health 100
+computer health 100
+bot rolled 5 for a heal of 15
+Computer rolled 18 for a defense of 36
+Results....
+bot used Heal and dealt 0  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 0 damage
+Next Round.....
+Round 13
+player health 100
+computer health 100
+bot rolled 18 for a Special attack of 45
+computer rolled 8 for a heal of 18
+Results....
+bot used Special_Attack and dealt 28  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 28 damage
+Next Round.....
+Round 14
+player health 100
+computer health 90
+bot rolled 14 for a heal of 24
+computer rolled 3 for a failed specail attack of 0
+Results....
+bot used Heal and dealt 0  damage and took 0 damage
+Computer used Failed_Special_Attack and dealt 0  damage and took 0 damage
+Next Round.....
+Round 15
+player health 100
+computer health 90
+bot rolled 6 for an attack of 24
+computer rolled 17 for a heal of 27
+Results....
+bot used Attack and dealt 7  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 7 damage
+Next Round.....
+Round 16
+player health 100
+computer health 100
+bot rolled 16 for a defense of 33
+computer rolled 19 for an attack of 30
+Results....
+bot used Defend and dealt 0  damage and took 0 damage
+Computer used Attack and dealt 0  damage and took 0 damage
+Next Round.....
+Round 17
+player health 100
+computer health 100
+bot rolled 13 for a defense of 30
+computer rolled 19 for a heal of 29
+Results....
+bot used Defend and dealt 0  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 0 damage
+Next Round.....
+Round 18
+player health 100
+computer health 100
+bot rolled 16 for a Special attack of 43
+Computer rolled 7 for a Special attack of 33
+Results....
+bot used Special_Attack and dealt 25  damage and took 16 damage
+Computer used Special_Attack and dealt 16  damage and took 25 damage
+Next Round.....
+Round 19
+player health 84
+computer health 75
+bot rolled 12 for a failed specail attack of 0
+Computer rolled 10 for a defense of 28
+Results....
+bot used Failed_Special_Attack and dealt 0  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 0 damage
+Next Round.....
+Round 20
+player health 84
+computer health 75
+bot rolled 16 for a defense of 33
+Computer rolled 5 for a defense of 23
+Results....
+bot used Defend and dealt 0  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 0 damage
+Next Round.....
+Round 21
+player health 84
+computer health 75
+bot rolled 14 for a failed specail attack of 0
+computer rolled 6 for a failed specail attack of 0
+Results....
+bot used Failed_Special_Attack and dealt 0  damage and took 0 damage
+Computer used Failed_Special_Attack and dealt 0  damage and took 0 damage
+Next Round.....
+Round 22
+player health 84
+computer health 75
+bot rolled 11 for a Special attack of 38
+Computer rolled 11 for a Special attack of 37
+Results....
+bot used Special_Attack and dealt 20  damage and took 20 damage
+Computer used Special_Attack and dealt 20  damage and took 20 damage
+Next Round.....
+Round 23
+player health 64
+computer health 55
+bot rolled 15 for a failed specail attack of 0
+computer rolled 13 for an attack of 24
+Results....
+bot used Failed_Special_Attack and dealt 0  damage and took 7 damage
+Computer used Attack and dealt 7  damage and took 0 damage
+Next Round.....
+Round 24
+player health 57
+computer health 55
+bot rolled 14 for a heal of 24
+computer rolled 7 for a failed specail attack of 0
+Results....
+bot used Heal and dealt 0  damage and took 0 damage
+Computer used Failed_Special_Attack and dealt 0  damage and took 0 damage
+Next Round.....
+Round 25
+player health 81
+computer health 55
+bot rolled 16 for a failed specail attack of 0
+Computer rolled 17 for a defense of 35
+Results....
+bot used Failed_Special_Attack and dealt 0  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 0 damage
+Next Round.....
+Round 26
+player health 81
+computer health 55
+bot rolled 17 for a heal of 27
+Computer rolled 13 for a Special attack of 39
+Results....
+bot used Heal and dealt 0  damage and took 22 damage
+Computer used Special_Attack and dealt 22  damage and took 0 damage
+Next Round.....
+Round 27
+player health 86
+computer health 55
+bot rolled 13 for a heal of 23
+computer rolled 2 for an attack of 13
+Results....
+bot used Heal and dealt 0  damage and took 0 damage
+Computer used Attack and dealt 0  damage and took 0 damage
+Next Round.....
+Round 28
+player health 100
+computer health 55
+bot rolled 4 for an attack of 22
+computer rolled 10 for a failed specail attack of 0
+Results....
+bot used Attack and dealt 4  damage and took 0 damage
+Computer used Failed_Special_Attack and dealt 0  damage and took 4 damage
+Next Round.....
+Round 29
+player health 100
+computer health 51
+bot rolled 11 for an attack of 29
+computer rolled 16 for a failed specail attack of 0
+Results....
+bot used Attack and dealt 11  damage and took 0 damage
+Computer used Failed_Special_Attack and dealt 0  damage and took 11 damage
+Next Round.....
+Round 30
+player health 100
+computer health 40
+bot rolled 7 for a Special attack of 34
+Computer rolled 7 for a defense of 25
+Results....
+bot used Special_Attack and dealt 9  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 9 damage
+Next Round.....
+Round 31
+player health 100
+computer health 31
+bot rolled 12 for a heal of 22
+Computer rolled 20 for a defense of 38
+Results....
+bot used Heal and dealt 0  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 0 damage
+Next Round.....
+Round 32
+player health 100
+computer health 31
+bot rolled 8 for a heal of 18
+computer rolled 12 for an attack of 23
+Results....
+bot used Heal and dealt 0  damage and took 6 damage
+Computer used Attack and dealt 6  damage and took 0 damage
+Next Round.....
+Round 33
+player health 100
+computer health 31
+bot rolled 3 for a failed specail attack of 0
+Computer rolled 5 for a defense of 23
+Results....
+bot used Failed_Special_Attack and dealt 0  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 0 damage
+Next Round.....
+Round 34
+player health 100
+computer health 31
+bot rolled 1 for a heal of 11
+computer rolled 15 for an attack of 26
+Results....
+bot used Heal and dealt 0  damage and took 9 damage
+Computer used Attack and dealt 9  damage and took 0 damage
+Next Round.....
+Round 35
+player health 100
+computer health 31
+bot rolled 2 for a Special attack of 29
+computer rolled 16 for a heal of 26
+Results....
+bot used Special_Attack and dealt 12  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 12 damage
+Next Round.....
+Round 36
+player health 100
+computer health 45
+bot rolled 1 for a failed specail attack of 0
+Computer rolled 15 for a Special attack of 41
+Results....
+bot used Failed_Special_Attack and dealt 0  damage and took 24 damage
+Computer used Special_Attack and dealt 24  damage and took 0 damage
+Next Round.....
+Round 37
+player health 76
+computer health 45
+bot rolled 15 for a heal of 25
+computer rolled 6 for an attack of 17
+Results....
+bot used Heal and dealt 0  damage and took 0 damage
+Computer used Attack and dealt 0  damage and took 0 damage
+Next Round.....
+Round 38
+player health 100
+computer health 45
+bot rolled 13 for a defense of 30
+computer rolled 5 for a heal of 15
+Results....
+bot used Defend and dealt 0  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 0 damage
+Next Round.....
+Round 39
+player health 100
+computer health 60
+bot rolled 14 for a Special attack of 41
+computer rolled 11 for a failed specail attack of 0
+Results....
+bot used Special_Attack and dealt 23  damage and took 0 damage
+Computer used Failed_Special_Attack and dealt 0  damage and took 23 damage
+Next Round.....
+Round 40
+player health 100
+computer health 37
+bot rolled 12 for a defense of 29
+Computer rolled 17 for a defense of 35
+Results....
+bot used Defend and dealt 0  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 0 damage
+Next Round.....
+Round 41
+player health 100
+computer health 37
+bot rolled 9 for a failed specail attack of 0
+computer rolled 2 for an attack of 13
+Results....
+bot used Failed_Special_Attack and dealt 0  damage and took 0 damage
+Computer used Attack and dealt 0  damage and took 0 damage
+Next Round.....
+Round 42
+player health 100
+computer health 37
+bot rolled 14 for an attack of 32
+Computer rolled 19 for a defense of 37
+Results....
+bot used Attack and dealt 0  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 0 damage
+Next Round.....
+Round 43
+player health 100
+computer health 37
+bot rolled 15 for an attack of 33
+Computer rolled 6 for a Special attack of 32
+Results....
+bot used Attack and dealt 15  damage and took 15 damage
+Computer used Special_Attack and dealt 15  damage and took 15 damage
+Next Round.....
+Round 44
+player health 85
+computer health 22
+bot rolled 5 for a defense of 22
+computer rolled 9 for an attack of 20
+Results....
+bot used Defend and dealt 0  damage and took 0 damage
+Computer used Attack and dealt 0  damage and took 0 damage
+Next Round.....
+Round 45
+player health 85
+computer health 22
+bot rolled 19 for a heal of 29
+computer rolled 14 for a failed specail attack of 0
+Results....
+bot used Heal and dealt 0  damage and took 0 damage
+Computer used Failed_Special_Attack and dealt 0  damage and took 0 damage
+Next Round.....
+Round 46
+player health 100
+computer health 22
+bot rolled 20 for a Special attack of 47
+Computer rolled 19 for a defense of 37
+Results....
+bot used Special_Attack and dealt 10  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 10 damage
+Next Round.....
+Round 47
+player health 100
+computer health 12
+bot rolled 14 for a heal of 24
+computer rolled 6 for a heal of 16
+Results....
+bot used Heal and dealt 0  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 0 damage
+Next Round.....
+Round 48
+player health 100
+computer health 28
+bot rolled 3 for an attack of 21
+computer rolled 19 for a heal of 29
+Results....
+bot used Attack and dealt 4  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 4 damage
+Next Round.....
+Round 49
+player health 100
+computer health 53
+bot rolled 13 for an attack of 31
+computer rolled 17 for a heal of 27
+Results....
+bot used Attack and dealt 14  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 14 damage
+Next Round.....
+Round 50
+player health 100
+computer health 66
+bot rolled 4 for an attack of 22
+Computer rolled 3 for a Special attack of 29
+Results....
+bot used Attack and dealt 4  damage and took 12 damage
+Computer used Special_Attack and dealt 12  damage and took 4 damage
+Next Round.....
+Round 51
+player health 88
+computer health 62
+bot rolled 19 for a Special attack of 46
+computer rolled 19 for a heal of 29
+Results....
+bot used Special_Attack and dealt 29  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 29 damage
+Next Round.....
+Round 52
+player health 88
+computer health 62
+bot rolled 9 for an attack of 27
+Computer rolled 12 for a defense of 30
+Results....
+bot used Attack and dealt 0  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 0 damage
+Next Round.....
+Round 53
+player health 88
+computer health 62
+bot rolled 9 for an attack of 27
+computer rolled 9 for an attack of 20
+Results....
+bot used Attack and dealt 9  damage and took 3 damage
+Computer used Attack and dealt 3  damage and took 9 damage
+Next Round.....
+Round 54
+player health 85
+computer health 53
+bot rolled 14 for a heal of 24
+computer rolled 13 for a heal of 23
+Results....
+bot used Heal and dealt 0  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 0 damage
+Next Round.....
+Round 55
+player health 100
+computer health 76
+bot rolled 12 for a defense of 29
+Computer rolled 12 for a Special attack of 38
+Results....
+bot used Defend and dealt 0  damage and took 9 damage
+Computer used Special_Attack and dealt 9  damage and took 0 damage
+Next Round.....
+Round 56
+player health 91
+computer health 76
+bot rolled 14 for a heal of 24
+Computer rolled 8 for a defense of 26
+Results....
+bot used Heal and dealt 0  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 0 damage
+Next Round.....
+Round 57
+player health 100
+computer health 76
+bot rolled 8 for a Special attack of 35
+computer rolled 17 for a failed specail attack of 0
+Results....
+bot used Special_Attack and dealt 17  damage and took 0 damage
+Computer used Failed_Special_Attack and dealt 0  damage and took 17 damage
+Next Round.....
+Round 58
+player health 100
+computer health 59
+bot rolled 8 for an attack of 26
+computer rolled 4 for an attack of 15
+Results....
+bot used Attack and dealt 8  damage and took 0 damage
+Computer used Attack and dealt 0  damage and took 8 damage
+Next Round.....
+Round 59
+player health 100
+computer health 51
+bot rolled 9 for a heal of 19
+Computer rolled 10 for a defense of 28
+Results....
+bot used Heal and dealt 0  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 0 damage
+Next Round.....
+Round 60
+player health 100
+computer health 51
+bot rolled 8 for a heal of 18
+Computer rolled 16 for a Special attack of 42
+Results....
+bot used Heal and dealt 0  damage and took 25 damage
+Computer used Special_Attack and dealt 25  damage and took 0 damage
+Next Round.....
+Round 61
+player health 93
+computer health 51
+bot rolled 2 for a Special attack of 29
+computer rolled 14 for a heal of 24
+Results....
+bot used Special_Attack and dealt 12  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 12 damage
+Next Round.....
+Round 62
+player health 93
+computer health 63
+bot rolled 8 for a failed specail attack of 0
+computer rolled 10 for a failed specail attack of 0
+Results....
+bot used Failed_Special_Attack and dealt 0  damage and took 0 damage
+Computer used Failed_Special_Attack and dealt 0  damage and took 0 damage
+Next Round.....
+Round 63
+player health 93
+computer health 63
+bot rolled 2 for a defense of 19
+computer rolled 9 for a failed specail attack of 0
+Results....
+bot used Defend and dealt 0  damage and took 0 damage
+Computer used Failed_Special_Attack and dealt 0  damage and took 0 damage
+Next Round.....
+Round 64
+player health 93
+computer health 63
+bot rolled 4 for an attack of 22
+Computer rolled 11 for a defense of 29
+Results....
+bot used Attack and dealt 0  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 0 damage
+Next Round.....
+Round 65
+player health 93
+computer health 63
+bot rolled 11 for an attack of 29
+Computer rolled 10 for a Special attack of 36
+Results....
+bot used Attack and dealt 11  damage and took 19 damage
+Computer used Special_Attack and dealt 19  damage and took 11 damage
+Next Round.....
+Round 66
+player health 74
+computer health 52
+bot rolled 14 for a heal of 24
+computer rolled 20 for a heal of 30
+Results....
+bot used Heal and dealt 0  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 0 damage
+Next Round.....
+Round 67
+player health 98
+computer health 82
+bot rolled 13 for an attack of 31
+computer rolled 17 for a heal of 27
+Results....
+bot used Attack and dealt 14  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 14 damage
+Next Round.....
+Round 68
+player health 98
+computer health 95
+bot rolled 14 for a Special attack of 41
+Computer rolled 20 for a defense of 38
+Results....
+bot used Special_Attack and dealt 3  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 3 damage
+Next Round.....
+Round 69
+player health 98
+computer health 92
+bot rolled 19 for a heal of 29
+Computer rolled 7 for a defense of 25
+Results....
+bot used Heal and dealt 0  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 0 damage
+Next Round.....
+Round 70
+player health 100
+computer health 92
+bot rolled 11 for a heal of 21
+computer rolled 2 for a heal of 12
+Results....
+bot used Heal and dealt 0  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 0 damage
+Next Round.....
+Round 71
+player health 100
+computer health 100
+bot rolled 13 for a defense of 30
+Computer rolled 10 for a Special attack of 36
+Results....
+bot used Defend and dealt 0  damage and took 6 damage
+Computer used Special_Attack and dealt 6  damage and took 0 damage
+Next Round.....
+Round 72
+player health 94
+computer health 100
+bot rolled 7 for an attack of 25
+computer rolled 9 for a heal of 19
+Results....
+bot used Attack and dealt 8  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 8 damage
+Next Round.....
+Round 73
+player health 94
+computer health 100
+bot rolled 5 for a defense of 22
+Computer rolled 14 for a defense of 32
+Results....
+bot used Defend and dealt 0  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 0 damage
+Next Round.....
+Round 74
+player health 94
+computer health 100
+bot rolled 7 for an attack of 25
+computer rolled 2 for an attack of 13
+Results....
+bot used Attack and dealt 7  damage and took 0 damage
+Computer used Attack and dealt 0  damage and took 7 damage
+Next Round.....
+Round 75
+player health 94
+computer health 93
+bot rolled 5 for a Special attack of 32
+Computer rolled 4 for a Special attack of 30
+Results....
+bot used Special_Attack and dealt 14  damage and took 13 damage
+Computer used Special_Attack and dealt 13  damage and took 14 damage
+Next Round.....
+Round 76
+player health 81
+computer health 79
+bot rolled 18 for a defense of 35
+computer rolled 13 for a heal of 23
+Results....
+bot used Defend and dealt 0  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 0 damage
+Next Round.....
+Round 77
+player health 81
+computer health 100
+bot rolled 8 for a heal of 18
+Computer rolled 17 for a defense of 35
+Results....
+bot used Heal and dealt 0  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 0 damage
+Next Round.....
+Round 78
+player health 99
+computer health 100
+bot rolled 2 for an attack of 20
+computer rolled 15 for a heal of 25
+Results....
+bot used Attack and dealt 3  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 3 damage
+Next Round.....
+Round 79
+player health 99
+computer health 100
+bot rolled 16 for an attack of 34
+Computer rolled 19 for a defense of 37
+Results....
+bot used Attack and dealt 0  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 0 damage
+Next Round.....
+Round 80
+player health 99
+computer health 100
+bot rolled 18 for an attack of 36
+Computer rolled 13 for a Special attack of 39
+Results....
+bot used Attack and dealt 18  damage and took 22 damage
+Computer used Special_Attack and dealt 22  damage and took 18 damage
+Next Round.....
+Round 81
+player health 77
+computer health 82
+bot rolled 12 for a heal of 22
+computer rolled 16 for an attack of 27
+Results....
+bot used Heal and dealt 0  damage and took 10 damage
+Computer used Attack and dealt 10  damage and took 0 damage
+Next Round.....
+Round 82
+player health 89
+computer health 82
+bot rolled 5 for an attack of 23
+Computer rolled 2 for a defense of 20
+Results....
+bot used Attack and dealt 3  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 3 damage
+Next Round.....
+Round 83
+player health 89
+computer health 79
+bot rolled 13 for an attack of 31
+computer rolled 9 for an attack of 20
+Results....
+bot used Attack and dealt 13  damage and took 3 damage
+Computer used Attack and dealt 3  damage and took 13 damage
+Next Round.....
+Round 84
+player health 86
+computer health 66
+bot rolled 3 for a heal of 13
+Computer rolled 17 for a defense of 35
+Results....
+bot used Heal and dealt 0  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 0 damage
+Next Round.....
+Round 85
+player health 99
+computer health 66
+bot rolled 2 for a defense of 19
+Computer rolled 19 for a Special attack of 45
+Results....
+bot used Defend and dealt 0  damage and took 26 damage
+Computer used Special_Attack and dealt 26  damage and took 0 damage
+Next Round.....
+Round 86
+player health 73
+computer health 66
+bot rolled 11 for a Special attack of 38
+computer rolled 14 for an attack of 25
+Results....
+bot used Special_Attack and dealt 20  damage and took 8 damage
+Computer used Attack and dealt 8  damage and took 20 damage
+Next Round.....
+Round 87
+player health 65
+computer health 46
+bot rolled 5 for a failed specail attack of 0
+computer rolled 5 for a failed specail attack of 0
+Results....
+bot used Failed_Special_Attack and dealt 0  damage and took 0 damage
+Computer used Failed_Special_Attack and dealt 0  damage and took 0 damage
+Next Round.....
+Round 88
+player health 65
+computer health 46
+bot rolled 19 for a defense of 36
+computer rolled 7 for a heal of 17
+Results....
+bot used Defend and dealt 0  damage and took 0 damage
+Computer used Heal and dealt 0  damage and took 0 damage
+Next Round.....
+Round 89
+player health 65
+computer health 63
+bot rolled 4 for an attack of 22
+Computer rolled 13 for a Special attack of 39
+Results....
+bot used Attack and dealt 4  damage and took 22 damage
+Computer used Special_Attack and dealt 22  damage and took 4 damage
+Next Round.....
+Round 90
+player health 43
+computer health 59
+bot rolled 5 for a defense of 22
+computer rolled 18 for an attack of 29
+Results....
+bot used Defend and dealt 0  damage and took 7 damage
+Computer used Attack and dealt 7  damage and took 0 damage
+Next Round.....
+Round 91
+player health 36
+computer health 59
+bot rolled 18 for a defense of 35
+computer rolled 16 for a failed specail attack of 0
+Results....
+bot used Defend and dealt 0  damage and took 0 damage
+Computer used Failed_Special_Attack and dealt 0  damage and took 0 damage
+Next Round.....
+Round 92
+player health 36
+computer health 59
+bot rolled 17 for a Special attack of 44
+computer rolled 11 for a failed specail attack of 0
+Results....
+bot used Special_Attack and dealt 26  damage and took 0 damage
+Computer used Failed_Special_Attack and dealt 0  damage and took 26 damage
+Next Round.....
+Round 93
+player health 36
+computer health 33
+bot rolled 1 for a failed specail attack of 0
+Computer rolled 18 for a defense of 36
+Results....
+bot used Failed_Special_Attack and dealt 0  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 0 damage
+Next Round.....
+Round 94
+player health 36
+computer health 33
+bot rolled 5 for an attack of 23
+Computer rolled 20 for a Special attack of 46
+Results....
+bot used Attack and dealt 5  damage and took 29 damage
+Computer used Special_Attack and dealt 29  damage and took 5 damage
+Next Round.....
+Round 95
+player health 7
+computer health 28
+bot rolled 12 for a defense of 29
+Computer rolled 19 for a defense of 37
+Results....
+bot used Defend and dealt 0  damage and took 0 damage
+Computer used Defend and dealt 0  damage and took 0 damage
+Next Round.....
+Round 96
+player health 7
+computer health 28
+bot rolled 6 for an attack of 24
+computer rolled 10 for an attack of 21
+Results....
+bot used Attack and dealt 6  damage and took 4 damage
+Computer used Attack and dealt 4  damage and took 6 damage
+Next Round.....
+Round 97
+player health 3
+computer health 22
+bot rolled 11 for a Special attack of 38
+computer rolled 15 for a failed specail attack of 0
+Results....
+bot used Special_Attack and dealt 20  damage and took 0 damage
+Computer used Failed_Special_Attack and dealt 0  damage and took 20 damage
+Next Round.....
+Round 98
+player health 3
+computer health 2
+bot rolled 10 for a defense of 27
+computer rolled 4 for an attack of 15
+Results....
+bot used Defend and dealt 0  damage and took 0 damage
+Computer used Attack and dealt 0  damage and took 0 damage
+Next Round.....
+Round 99
+player health 3
+computer health 2
+bot rolled 3 for a heal of 13
+computer rolled 17 for an attack of 28
+Results....
+bot used Heal and dealt 0  damage and took 11 damage
+Computer used Attack and dealt 11  damage and took 0 damage
+Next Round.....
+Round 100
+player health 5
+computer health 2
+bot rolled 12 for a defense of 29
+computer rolled 15 for an attack of 26
+Results....
+bot used Defend and dealt 0  damage and took 0 damage
+Computer used Attack and dealt 0  damage and took 0 damage
+Next Round.....
+
+
+
+

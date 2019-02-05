@@ -1,0 +1,77 @@
+#include<studio.h>
+const int pingPin = 7;
+int  a = 0, b = 0, c = 0, i = 0, j = 0;
+long m = 0, cm = 0;
+
+void setup(){
+  Serial.begin(9600);
+  pinMode(13, OUTPUT);
+  
+}
+
+void loop() {
+  pinMode(pingPin, OUTPUT);
+  digitalWrite(pingPin, LOW);
+  delayMicroseconds(2);
+  digitalWrite(pingPin, HIGH);
+  delayMicroseconds(5);
+  digitalWrite(pingPin, LOW);
+
+
+  pinMode(pingPin, INPUT);
+  m = pulseIn(pingPin, HIGH);
+
+  cm = m / 29 / 2;
+
+  a = floor(cm/100);
+  b = floor((cm - a)/10);
+  c = cm - a*100 - b*10;
+  
+  Blink(a);
+  Blink(b);
+  Blink(c);
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+  digitalWrite(13, HIGH);   // turn the LED on (HIGH is the voltage level)
+  delay(n*200);              // wait for a second
+  digitalWrite(13, LOW);    // turn the LED off by making the voltage LOW
+  delay(n*200);
+
+  if (n == 10) {
+    a = 1;
+  }
+  else if (n == 1) {
+    a = 0;
+  }
+
+  if (a == 0) {
+    n++;
+  }
+  if (a == 1) {
+    n--;
+  }
+*/    
+}
+
+void Blink (int n){
+  int x = 0;
+  for (x = 0; x >= n ;x+=1){
+    digitalWrite(13, HIGH);   
+    delay(500);              
+    digitalWrite(13, LOW);  
+    delay(500);
+  }
+  delay(1000);
+
+}
