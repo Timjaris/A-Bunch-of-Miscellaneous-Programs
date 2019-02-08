@@ -2,6 +2,16 @@ import turtle
 import math
 import random
 
+"""
+l = length of the side of each triangle
+
+r is a number. A random number between 0 and r is chosen, and if it equals 1, 
+the turtle will draw the wrong color of triangle
+
+r is incremented by learning after each tier. So, if you want the turtle to
+make a mistake, then get better over time for a much more chaotic tringle, 
+set r and learning to both not be 0
+"""
 l=10
 r=0
 learning=0
