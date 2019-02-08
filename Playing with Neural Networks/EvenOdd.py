@@ -7,6 +7,10 @@ Created on Mon Jan  7 14:47:00 2019
 Conclusions: This was a collosal failure, this is not the sort of things
 NNs can do. NNs are basically for "plot the input on a graph, we'll find the
 boundary. 
+
+I still don't get why it won't work on a small dataset, though. I get why it 
+wouldn't generalize, but a zig-zagging line should be able to learn the 
+training set. 
 """
 import matplotlib.pyplot as plt
 import numpy as np
